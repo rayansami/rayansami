@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on at the Lab for Applied Machine Learning and Natural Language Processing Systems
- (LAMP-SYS). I am responsible for developing repository and designing database system for for Electronic Thesis or Dissertations. My lab repositories: https://github.com/lamps-lab
+- 🔭 I'm currently working at the Lab for Applied Machine Learning and Natural Language Processing Systems
+ (LAMP-SYS). I am responsible for developing a repository and designing a database system for Electronic Thesis or Dissertations. My lab repositories: https://github.com/lamps-lab
+- 🌱 Experienced in the full-stack role on fast paced startup.
+- 📫 How to reach me: I prefer email to have initial communication. Here's my address: muddi004@odu.edu
+- 👯 I am open to new opportunities. My website: https://rayansami.github.io/
