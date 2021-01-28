@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on NLP and Text mining at the LAMP-SYS. Also developing repository and designing database system for for Electronic Thesis or Dissertations. My lab repositories: https://github.com/lamps-lab
+- 🔭 I’m currently working on at the Lab for Applied Machine Learning and Natural Language Processing Systems
+ (LAMP-SYS). I am responsible for developing repository and designing database system for for Electronic Thesis or Dissertations. My lab repositories: https://github.com/lamps-lab
