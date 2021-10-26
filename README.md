@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - 🔭 I'm currently working at the Lab for Applied Machine Learning and Natural Language Processing Systems
  (LAMP-SYS). I am responsible for developing a repository and designing a database system for Electronic Thesis or Dissertations. My lab repositories: https://github.com/lamps-lab
+ 
  Besides, I am developing a citation parser using deep learning model employing transformer and CRF.
 - 🌱 Experienced in the full-stack role on fast paced startup. I have experience working on C#, .Net Core, Python, SQL Server, MySQL, Azure, JavaScript, jQuery HTML5, CSS3, Shell, Linux, IIS, OpenRefine, RStudio and Tableau
 - 📫 How to reach me: I prefer email to have initial communication. Here's my address: rayan_sami@outlook.com
