@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: he/him
 - 🔭 Graduated from ODU with MSc in Computer Science. Currently working as a Senior Software Developer at Virginia Marine Resources Commission
-- 🔭 I'm currently developing a citation parser using deep learning model employing transformer and CRF. I am also working at the Lab for Applied Machine Learning and Natural Language Processing Systems (LAMP-SYS). I am responsible for developing a repository and designing a database system for Electronic Thesis or Dissertations. My lab repositories: https://github.com/lamps-lab
 - 🌱 Experienced software engineer in the full-stack role on fast paced environment. I have experience working on C#, .Net Core, Python, SQL Server, PHP, MySQL, Azure, JavaScript, jQuery HTML5, CSS3, Shell, Linux, IIS, OpenRefine, RStudio, and Tableau. Also, I have extensive research experience, thanks to my grad school, where I built a citation parser using a deep learning model employing transformer and CRF for my MS thesis and developed a digital library of ETDs (Electronic Theses and Dissertation). Moreover, during my tenure as a research assistant at ODU CS, I devoted myself to investigating assistive technologies on the web for people with lower vision. These allowed me to play with machine learning and natural language processing tools & techniques and strengthened my understanding of them.
 - 📫 How to reach me: I prefer email to have initial communication. Here's my address: rayan_sami@outlook.com
 - 👯 I am open to new opportunities. 
