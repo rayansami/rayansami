@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: he/him
-- 🔭 Graduated from ODU with MSc in Computer Science. Currently working as a Senior Software Developer at Virginia Marine Resources Commission
-- 🌱 Experienced software engineer in the full-stack role on fast paced environment. I have experience working on C#, .Net Core, Python, SQL Server, PHP, MySQL, Azure, JavaScript, jQuery HTML5, CSS3, Shell, Linux, IIS, OpenRefine, RStudio, and Tableau. Also, I have extensive research experience, thanks to my grad school, where I built a citation parser using a deep learning model employing transformer and CRF for my MS thesis and developed a digital library of ETDs (Electronic Theses and Dissertation). Moreover, during my tenure as a research assistant at ODU CS, I devoted myself to investigating assistive technologies on the web for people with lower vision. These allowed me to play with machine learning and natural language processing tools & techniques and strengthened my understanding of them.
+- 🔭 Graduated from ODU with MSc in Computer Science. Currently working as a Software Engineer at Virginia Marine Resources Commission
+- 🌱 Experienced software engineer in the full-stack role on fast paced environment. I have experience working on TypeScript, React, C#, .Net Core, Python, SQL Server, PHP, MySQL, Azure, JavaScript, jQuery HTML5, CSS3, Shell, Linux, IIS, OpenRefine, RStudio, and Tableau. 
 - 📫 How to reach me: I prefer email to have initial communication. Here's my address: rayan_sami@outlook.com
 - 👯 I am open to new opportunities. 
 
